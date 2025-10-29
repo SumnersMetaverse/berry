@@ -26897,20 +26897,20 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["http-proxy-middleware", [\
-      ["npm:2.0.6", {\
-        "packageLocation": "./.yarn/cache/http-proxy-middleware-npm-2.0.6-3bb17658ee-768e7ae5a4.zip/node_modules/http-proxy-middleware/",\
+      ["npm:2.0.9", {\
+        "packageLocation": "./.yarn/cache/http-proxy-middleware-npm-2.0.9-c1f4ed8c4d-4ece416a91.zip/node_modules/http-proxy-middleware/",\
         "packageDependencies": [\
-          ["http-proxy-middleware", "npm:2.0.6"]\
+          ["http-proxy-middleware", "npm:2.0.9"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:78608fbc8ed212ef6127a77a4b03b5b4312bf0f607f4a7236893d16a4e4627a0f2f88dff8b8953c079ea6940fc2995631e9d4884b000983dcf864c72835a6218#npm:2.0.6", {\
-        "packageLocation": "./.yarn/__virtual__/http-proxy-middleware-virtual-c36eded4cf/0/cache/http-proxy-middleware-npm-2.0.6-3bb17658ee-768e7ae5a4.zip/node_modules/http-proxy-middleware/",\
+      ["virtual:78608fbc8ed212ef6127a77a4b03b5b4312bf0f607f4a7236893d16a4e4627a0f2f88dff8b8953c079ea6940fc2995631e9d4884b000983dcf864c72835a6218#npm:2.0.9", {\
+        "packageLocation": "./.yarn/__virtual__/http-proxy-middleware-virtual-df4d5af76f/0/cache/http-proxy-middleware-npm-2.0.9-c1f4ed8c4d-4ece416a91.zip/node_modules/http-proxy-middleware/",\
         "packageDependencies": [\
           ["@types/express", "npm:4.17.14"],\
           ["@types/http-proxy", "npm:1.17.9"],\
           ["http-proxy", "npm:1.18.1"],\
-          ["http-proxy-middleware", "virtual:78608fbc8ed212ef6127a77a4b03b5b4312bf0f607f4a7236893d16a4e4627a0f2f88dff8b8953c079ea6940fc2995631e9d4884b000983dcf864c72835a6218#npm:2.0.6"],\
+          ["http-proxy-middleware", "virtual:78608fbc8ed212ef6127a77a4b03b5b4312bf0f607f4a7236893d16a4e4627a0f2f88dff8b8953c079ea6940fc2995631e9d4884b000983dcf864c72835a6218#npm:2.0.9"],\
           ["is-glob", "npm:4.0.3"],\
           ["is-plain-obj", "npm:3.0.0"],\
           ["micromatch", "npm:4.0.5"]\
@@ -38604,7 +38604,7 @@ const RAW_RUNTIME_STATE =
           ["express", "npm:4.18.1"],\
           ["graceful-fs", "npm:4.2.11"],\
           ["html-entities", "npm:2.3.3"],\
-          ["http-proxy-middleware", "virtual:78608fbc8ed212ef6127a77a4b03b5b4312bf0f607f4a7236893d16a4e4627a0f2f88dff8b8953c079ea6940fc2995631e9d4884b000983dcf864c72835a6218#npm:2.0.6"],\
+          ["http-proxy-middleware", "virtual:78608fbc8ed212ef6127a77a4b03b5b4312bf0f607f4a7236893d16a4e4627a0f2f88dff8b8953c079ea6940fc2995631e9d4884b000983dcf864c72835a6218#npm:2.0.9"],\
           ["ipaddr.js", "npm:2.0.1"],\
           ["launch-editor", "npm:2.6.1"],\
           ["open", "npm:8.4.0"],\
