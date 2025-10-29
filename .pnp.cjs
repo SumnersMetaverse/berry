@@ -32117,7 +32117,7 @@ const RAW_RUNTIME_STATE =
           ["serve-static", "npm:1.15.0"],\
           ["sigstore", "npm:3.1.0"],\
           ["super-resolve", "npm:1.0.0"],\
-          ["tar-fs", "npm:1.16.3"],\
+          ["tar-fs", "npm:1.16.6"],\
           ["tslib", "npm:2.6.2"],\
           ["typanion", "npm:3.14.0"],\
           ["uuid", "npm:8.3.2"]\
@@ -37015,13 +37015,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["tar-fs", [\
-      ["npm:1.16.3", {\
-        "packageLocation": "./.yarn/cache/tar-fs-npm-1.16.3-009a31eb51-d467267093.zip/node_modules/tar-fs/",\
+      ["npm:1.16.6", {\
+        "packageLocation": "./.yarn/cache/tar-fs-npm-1.16.6-c655ce1058-6899835008.zip/node_modules/tar-fs/",\
         "packageDependencies": [\
           ["chownr", "npm:1.1.1"],\
           ["mkdirp", "npm:0.5.5"],\
           ["pump", "npm:1.0.3"],\
-          ["tar-fs", "npm:1.16.3"],\
+          ["tar-fs", "npm:1.16.6"],\
           ["tar-stream", "npm:1.6.2"]\
         ],\
         "linkType": "HARD"\
